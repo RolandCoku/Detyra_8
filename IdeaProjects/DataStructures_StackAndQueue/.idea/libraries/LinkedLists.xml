@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="LinkedLists">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../LinkedLists" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../LinkedLists/src" />
+    </SOURCES>
+  </library>
+</component>
