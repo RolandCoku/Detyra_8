@@ -1,0 +1,6 @@
+Studenti1 8, 9, 7, 10, 8
+Studenti2 6, 8, 9, 7, 9
+Studenti3 6, 8, 9, 7, 10
+Studenti4 6, 8, 9, 7, 13
+Studenti5 6, 10, 9, 7, 9
+Studenti6 6, 8, 5, 7, 4
